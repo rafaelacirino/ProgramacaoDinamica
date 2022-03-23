@@ -23,6 +23,6 @@ def lcs_recursivo(primeira_sequencia, segunda_sequencia, tamanho_primeira = None
 
 
 
-primeira = gerarString(50)
-segunda = gerarString(50)
+primeira = gerarString(20)
+segunda = gerarString(20)
 print(lcs_recursivo(primeira,segunda))
